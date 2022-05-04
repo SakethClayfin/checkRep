@@ -17,7 +17,7 @@ export default class App extends React.Component {
           <EditableTimer
             id="1"
             title="Mow the lawn"
-            project="House Chores"
+            project="House Chore"
             elapsed="8986300"
             isRunning
           />
